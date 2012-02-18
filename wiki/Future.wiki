@@ -1,0 +1,8 @@
+How i imagine the evolution of this project.
+
+= Introduction =
+
+Currently it makes the navigation dropdowns and buttons. The idea is to speed the design developement as much as possible. For example add facebook intergration and twitter or jquery and other libraries.
+
+= Details =
+If you are interested and you would like to get involved, let me know.
