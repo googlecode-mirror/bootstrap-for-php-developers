@@ -1,0 +1,26 @@
+How the system works
+
+# Introduction #
+
+The system is aiming to do the following, for everything you want to do, it should be 2 steps.
+1) tell the system what libraries it needs, 2) use 1 function do to what you want.
+
+# Details #
+
+We should simplify everything to this 2 step arcitecture.
+
+Example
+
+STEP 1
+
+// This loads bootstrap and facebook intergration libraries.
+$_setup[bootstrap](bootstrap.md)=1;
+$_setup[facebook](facebook.md)=1;
+
+STEP 2
+
+call the function at the place you want it.
+button('Cyan','#','teal',$size,$_dd);_
+
+RULES ...
+The dropdown data gets created from an array. So we can call data from a database and then send it straight to the results.

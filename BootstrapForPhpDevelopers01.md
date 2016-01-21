@@ -1,0 +1,13 @@
+bootstrap for php developers helps you quick start your php applications.
+
+# Introduction #
+
+Create navigation panels, and buttons with dropdowns from php arrays easy.
+
+# Details #
+
+How to install
+
+Just unzip, copy the 3 folders to your root on your server and then open /boot/index.php
+
+enjoy !
